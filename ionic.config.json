@@ -1,0 +1,7 @@
+{
+  "name": "reponsi-muthiakhanza",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
